@@ -1,0 +1,8 @@
+Avaliable arguments for Chtml!
+
+print <Hello world!>; --lets you print anything on screen 
+code<> --here you write code
+
+How does it work?
+
+Chtml is a preprocessor that reads a .chtml file and converts that code into an html file

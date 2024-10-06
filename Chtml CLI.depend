@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727921274 source:/home/iioo/Documents/Chtml CLI/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

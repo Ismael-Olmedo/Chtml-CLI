@@ -1,0 +1,11 @@
+Manage your Chtml project with this commands!
+
+Global Options:
+Template     This command let's you create a template for easy workflow
+
+Avaliable commands:
+Edit         This command let's you edit a Chtml file
+Info         This command shows you the version of Chtml you're currently using
+Observe      This command let's you observe the contents of a Chtml File
+
+Hope you have fun with Chtml!
